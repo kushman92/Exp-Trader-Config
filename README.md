@@ -91,7 +91,7 @@
 		MoneyRuble100,			1,		100,	-1
 
 
-<Trader> Misc Trader
+	<Trader> Misc Trader
 	<Category> Tools (small)
 		Screwdriver,			*,		3,		1
 		Wrench,					*,		3,		1
